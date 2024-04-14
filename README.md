@@ -62,8 +62,7 @@ Feel free to explore, analyze, and utilize the dataset for research and educatio
 
 ## Contact
 
-For any inquiries or feedback regarding the dataset, you can contact us at [].
-Authors:
+For any inquiries or feedback regarding the dataset, you can contact us at:
 - Nhi Ngoc-Yen Nguyen: [21521231@gm.uit.edu.vn](mailto:21521231@gm.uit.edu.vn)
 - Vo Hoang An: [21520555@gm.uit.edu.vn](mailto:21520555@gm.uit.edu.vn)
 - Tran Thai Hoa: [21522082@gm.uit.edu.vn](mailto:21522082@gm.uit.edu.vn)
